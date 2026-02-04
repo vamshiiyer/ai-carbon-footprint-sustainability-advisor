@@ -1,0 +1,11 @@
+transport_km,electricity_units,diet,household_size,impact
+5,80,veg,2,Low
+10,120,veg,3,Low
+15,150,mixed,3,Medium
+20,180,mixed,4,Medium
+25,220,mixed,4,Medium
+30,260,non-veg,5,High
+35,300,non-veg,5,High
+40,350,non-veg,6,High
+45,380,non-veg,6,High
+50,420,non-veg,7,High
